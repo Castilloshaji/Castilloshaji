@@ -94,28 +94,6 @@ Daily practice repository containing Data Structures & Algorithms solutions in P
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Castilloshaji&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castilloshaji&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Castilloshaji&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - 🚀 Build production-ready AI applications
