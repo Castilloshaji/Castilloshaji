@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Castillo Shaji
 
-<!--
-**Castilloshaji/Castilloshaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Software Engineer
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+• BlueprintAI
+• Retail Sales Analytics
+• Linux File Sharing
+• LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+Python • Java • SQL • FastAPI • PostgreSQL • Power BI
+
+📈 Currently Learning
+System Design
+Generative AI
+Cloud
+MLOps
+
+📫 Connect
+LinkedIn
+Email
