@@ -47,6 +47,12 @@ End-to-end analytics platform using Python, SQL, PostgreSQL, ETL pipelines, and 
 - Business Insights
 
 ---
+## 🏆 Achievements
+
+- 🌍 **TCS CodeVita Season 13** — Secured **Global Rank 16,807** in one of the world's largest competitive programming contests.
+- 💻 Solved algorithmic programming challenges involving Data Structures & Algorithms, optimization, and problem solving under timed conditions.
+
+---
 
 ### 💻 LeetCode
 Daily practice repository containing Data Structures & Algorithms solutions in Python.
